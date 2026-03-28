@@ -18,11 +18,10 @@ El Banquito es una plataforma web que permite a grupos familiares gestionar sus 
 - Diseño responsive con Tailwind CSS
 
 ## Tecnologías
-- PHP 8.5
-- MySQL
-- Tailwind CSS
-- Twilio SMS API
-- Composer
+![PHP](https://img.shields.io/badge/PHP-8.5-777BB4?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)
+![Twilio](https://img.shields.io/badge/Twilio-SMS-F22F46?logo=twilio)
 
 ## Instalación
 1. Clona el repositorio
