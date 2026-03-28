@@ -1,0 +1,6 @@
+vendor/
+node_modules/
+config/database.php
+config/twilio.php
+.env
+*.lock
